@@ -1,0 +1,11 @@
+/abstractFactoryPattern/target/
+/bridgePattern/target/
+/chainPattern/target/
+/compositePattern/target/
+/flyweightPattern/target/
+/iteratorPattern/target/
+/proxyPattern/target/
+/singletonPattern/target/
+/templateMethodPattern/target/
+/visitorPattern/target/
+/.idea
