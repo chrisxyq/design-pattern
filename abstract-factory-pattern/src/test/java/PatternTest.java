@@ -3,8 +3,8 @@ import adapter.impl.IIRCacheAdapter;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import service.CacheService;
-import service.impl.CacheServiceImpl;
+import com.chrisxyq.design.service.CacheService;
+import com.chrisxyq.design.service.impl.CacheServiceImpl;
 import util.JDKProxy;
 
 public class PatternTest {

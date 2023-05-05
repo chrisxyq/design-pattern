@@ -3,7 +3,12 @@ package com.chrisxyq.design;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * 代理模式「模拟mybatis-spring中定义DAO接口，使用代理类方式操作数据库原理实现场景」
+ */
 public class ApiTest {
 
     private Logger logger = LoggerFactory.getLogger(ApiTest.class);

@@ -13,14 +13,20 @@
         <module>iterator-pattern</module>
         <module>template-method-pattern</module>
         <module>visitor-pattern</module>
+        <!--        抽象工厂模式「替换Redis双集群升级，代理类抽象场景」-->
         <module>abstract-factory-pattern</module>
         <module>factory-method-pattern</module>
         <module>singleton-pattern</module>
         <module>bridge-pattern</module>
+        <!--        组合模式「营销差异化人群发券，决策树引擎搭建场景」-->
         <module>composite-pattern</module>
+        <!--        享元模式「基于Redis秒杀，提供活动与库存信息查询场景」-->
         <module>flyweight-pattern</module>
+        <!--        代理模式「模拟mybatis-spring中定义DAO接口，使用代理类方式操作数据库原理实现场景」-->
         <module>proxy-pattern</module>
+        <!--        观察者模式「模拟类似小客车指标摇号过程，监听消息通知用户中签场景」-->
         <module>observer-pattern</module>
+        <!--        备忘录模式「模拟互联网系统上线过程中，配置文件回滚场景」-->
         <module>memo-pattern</module>
     </modules>
 

@@ -11,5 +11,3 @@ https://bugstack.cn/md/develop/design-pattern/2020-06-30-%E9%87%8D%E5%AD%A6%20Ja
 代理模式实现mybatis-spring中代理类⽣成
 
 中介模式实现Mybatis的ORM框架开发
-
-备忘录模式实现系统回滚
