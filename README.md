@@ -13,5 +13,3 @@ https://bugstack.cn/md/develop/design-pattern/2020-06-30-%E9%87%8D%E5%AD%A6%20Ja
 中介模式实现Mybatis的ORM框架开发
 
 备忘录模式实现系统回滚
-
-观察者模式实现摇号通知
