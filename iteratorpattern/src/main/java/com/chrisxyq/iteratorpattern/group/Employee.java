@@ -1,4 +1,4 @@
-package group;
+package com.chrisxyq.iteratorpattern.group;
 
 /**
  * 雇员

@@ -1,8 +1,8 @@
-package group;
+package com.chrisxyq.iteratorpattern.group;
 
 
-import lang.Collection;
-import lang.Iterator;
+import com.chrisxyq.iteratorpattern.lang.Collection;
+import com.chrisxyq.iteratorpattern.lang.Iterator;
 
 import java.util.HashMap;
 import java.util.LinkedList;

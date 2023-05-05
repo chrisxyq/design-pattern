@@ -1,6 +1,6 @@
-package com.chrisxyq.observer.listener;
+package com.chrisxyq.observerpattern.listener;
 
-import com.chrisxyq.observer.LotteryResult;
+import com.chrisxyq.observerpattern.LotteryResult;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

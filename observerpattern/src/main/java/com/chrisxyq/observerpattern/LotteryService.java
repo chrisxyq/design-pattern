@@ -1,4 +1,7 @@
-package com.chrisxyq.observer;
+package com.chrisxyq.observerpattern;
+
+import com.chrisxyq.observerpattern.listener.MQEventListener;
+import com.chrisxyq.observerpattern.listener.MessageEventListener;
 
 public abstract class LotteryService {
 

@@ -1,6 +1,6 @@
-package com.chrisxyq.observer;
+package com.chrisxyq.observerpattern;
 
-import com.chrisxyq.observer.listener.EventListener;
+import com.chrisxyq.observerpattern.listener.EventListener;
 
 import java.util.ArrayList;
 import java.util.HashMap;

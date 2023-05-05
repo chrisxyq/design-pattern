@@ -1,4 +1,4 @@
-package com.chrisxyq.observer.listener;
+package com.chrisxyq.observerpattern;
 
 /**
  * 小客车指标调控服务

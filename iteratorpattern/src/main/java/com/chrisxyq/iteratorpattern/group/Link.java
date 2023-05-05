@@ -1,4 +1,4 @@
-package group;
+package com.chrisxyq.iteratorpattern.group;
 
 /**
  * 树节点链路

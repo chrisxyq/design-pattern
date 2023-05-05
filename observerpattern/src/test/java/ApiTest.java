@@ -1,11 +1,14 @@
 import com.alibaba.fastjson.JSON;
-import com.chrisxyq.observer.LotteryResult;
-import com.chrisxyq.observer.LotteryService;
-import com.chrisxyq.observer.LotteryServiceImpl;
+import com.chrisxyq.observerpattern.LotteryResult;
+import com.chrisxyq.observerpattern.LotteryService;
+import com.chrisxyq.observerpattern.LotteryServiceImpl;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * 观察者模式「模拟类似小客车指标摇号过程，监听消息通知用户中签场景」
+ */
 public class ApiTest {
 
     private Logger logger = LoggerFactory.getLogger(ApiTest.class);

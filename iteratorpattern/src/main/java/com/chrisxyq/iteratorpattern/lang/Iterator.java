@@ -1,4 +1,4 @@
-package lang;
+package com.chrisxyq.iteratorpattern.lang;
 
 public interface Iterator<E> {
 

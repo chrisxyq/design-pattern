@@ -1,7 +1,5 @@
-import group.Employee;
-import group.GroupStructure;
-import group.Link;
-import lang.Iterator;
+package com.chrisxyq.iteratorpattern;
+
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

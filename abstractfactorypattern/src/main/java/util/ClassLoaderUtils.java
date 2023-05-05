@@ -1,8 +1,8 @@
 package util;
 
-import java.lang.reflect.Constructor;
-import java.lang.reflect.Method;
-import java.lang.reflect.Modifier;
+import java.com.chrisxyq.iteratorpattern.lang.reflect.Constructor;
+import java.com.chrisxyq.iteratorpattern.lang.reflect.Method;
+import java.com.chrisxyq.iteratorpattern.lang.reflect.Modifier;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package com.chrisxyq.observer;
+package com.chrisxyq.observerpattern;
 
 import java.util.Date;
 
