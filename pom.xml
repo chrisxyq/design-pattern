@@ -35,6 +35,7 @@
         <module>observer-pattern</module>
         <!--        备忘录模式「模拟互联网系统上线过程中，配置文件回滚场景」-->
         <module>memo-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
 
     <dependencies>
